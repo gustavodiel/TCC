@@ -1,0 +1,34 @@
+Generating public/private rsa key pair.
+Your identification has been saved in keys/ssh_host_rsa_key.
+Your public key has been saved in keys/ssh_host_rsa_key.pub.
+The key fingerprint is:
+MD5:fc:fb:f0:7d:0e:9a:5d:d1:44:02:f4:12:eb:df:8b:98 labp2d@ubuntu174
+The key's randomart image is:
++---[RSA 2048]----+
+|           .+.. .|
+|             + o |
+|            o . .|
+|       .   . . ..|
+|        S   .  ..|
+|         .   . ..|
+|          o   o o|
+|           +o=.oo|
+|          .E=.o+.|
++------[MD5]------+
+Generating public/private ecdsa key pair.
+Your identification has been saved in keys/ssh_host_ecdsa_key.
+Your public key has been saved in keys/ssh_host_ecdsa_key.pub.
+The key fingerprint is:
+MD5:ec:00:06:24:55:f9:a3:48:29:59:b2:7f:42:ef:da:87 labp2d@ubuntu174
+The key's randomart image is:
++---[ECDSA 256]---+
+|.o+...           |
+|.....            |
+| = .o.           |
+|+ +. .o.         |
+| = o ...S        |
+|  + +  o         |
+|   + .  .        |
+|   .E .          |
+|  ....           |
++------[MD5]------+

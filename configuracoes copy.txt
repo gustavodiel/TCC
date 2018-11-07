@@ -1,0 +1,18 @@
+Maquina: 10.10.10.25
+Usuario: Nuvem
+pw: 5jnfvn
+DP: gustavodiel@hotmail.com
+
+Usuarios:
+
+Bob {
+    pw: 123
+    dropbox: bobsdndropbox@gmail.com
+    dropbox-pw: dropboxsdn
+}
+
+Alice {
+    pw: 123
+    dropbox: alicesdndropbox@gmail.com
+    dropbox-pw: dropboxsdn
+}

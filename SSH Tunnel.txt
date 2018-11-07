@@ -1,0 +1,6 @@
+ssh -L 1234:10.20.218.180:22 usuario_maquina_109@ip_maquina_109 cat -
+
+Usar algum servico com a porta 1234
+
+ex: scp -P 1234 usuario_maquina_109@127.0.0.1:~/ arquivo
+
